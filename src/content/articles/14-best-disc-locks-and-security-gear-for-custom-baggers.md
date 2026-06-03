@@ -33,6 +33,7 @@ hero_image_keywords:
 - disc locks security
 - security gear custom
 - disc baggers
+heroImage: https://images.unsplash.com/photo-1469285993711-8f4debc87f02?auto=format&fit=crop&w=1200&q=85
 ---
 
 If you’re building or customizing a cholo-style or Vicla-inspired bagger, securing that investment with high-quality disc locks and security gear is critical. The right lock not only deters thieves but also gives you peace of mind whenever you park at a cruise night or grab a quick bite.  

@@ -35,6 +35,7 @@ hero_image_keywords:
 - cholo bagger club
 - club style bagger
 - cholo differences
+heroImage: https://images.unsplash.com/photo-1558981403-c5f9899a4962?auto=format&fit=crop&w=1200&q=85
 ---
 
 # Cholo Bagger vs Club Style Bagger: Style and Gear Differences

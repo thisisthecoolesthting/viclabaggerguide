@@ -28,6 +28,7 @@ hero_image_keywords:
 - rain gear bagger
 - rain riders
 - household products retail shelf
+heroImage: https://images.unsplash.com/photo-1529421306120-3f7f9a0d6b7b?auto=format&fit=crop&w=1200&q=85
 ---
 
 Riding a bagger is pure joy, but wet weather can quickly put a damper on any cruise night or slow roll. Finding the best rain gear for bagger riders is essential—not just for staying dry, but for comfort, safety, and protecting your bike’s custom chrome and leather. I’ve tested and refined rain gear options over years of riding low-and-slow, keeping my Vicla-inspired bagger spotless and me ready for anything.

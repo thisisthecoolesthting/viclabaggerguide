@@ -39,6 +39,7 @@ hero_image_keywords:
 - ceramic spray coatings
 - coatings show chrome
 - ceramic baggers
+heroImage: https://images.unsplash.com/photo-1568772585407-9361f9bf3a87?auto=format&fit=crop&w=1200&q=85
 ---
 
 When you’re rolling out with show chrome on your bagger, keeping that mirror shine sealed and protected is a must. The best ceramic spray coatings for show chrome on baggers offer durable, easy-to-apply protection that stands up to road grime, weather, and the occasional touch of ride wear.

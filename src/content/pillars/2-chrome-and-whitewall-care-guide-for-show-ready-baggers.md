@@ -36,6 +36,7 @@ hero_image_keywords:
 - chrome whitewall care
 - care show-ready baggers
 - chrome baggers
+heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1200&q=85
 ---
 
 # Chrome and Whitewall Care Guide for Show-Ready Baggers

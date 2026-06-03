@@ -32,6 +32,7 @@ hero_image_keywords:
 - portable jump starters
 - starters motorcycle riders
 - portable riders
+heroImage: https://images.unsplash.com/photo-1508784536347-4b53cddb5d8e?auto=format&fit=crop&w=1200&q=85
 ---
 
 Jump-starting a dead battery on your motorcycle can be a real hassle, especially if you’re out on a cruise night or tinkering on your low-and-slow bagger project. The best portable jump starters for motorcycle riders offer compact, reliable power that fits neatly in your saddlebag or glove compartment, giving you peace of mind when the unexpected happens. I’ve tested and used several models suited for everything from Vicla-style builds to lowrider-inspired cruisers.

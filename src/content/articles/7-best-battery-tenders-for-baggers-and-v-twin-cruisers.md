@@ -37,6 +37,7 @@ hero_image_keywords:
 - battery tenders baggers
 - baggers v-twin cruisers
 - battery cruisers
+heroImage: https://images.unsplash.com/photo-1558981403-c5f9899a4962?auto=format&fit=crop&w=1200&q=85
 ---
 
 When it comes to keeping your bagger or V-twin cruiser ready to roll, finding the best battery tender is key. These chargers maintain your battery’s health during long rides and off seasons, ensuring your bike powers up without fuss every time you hit the road.

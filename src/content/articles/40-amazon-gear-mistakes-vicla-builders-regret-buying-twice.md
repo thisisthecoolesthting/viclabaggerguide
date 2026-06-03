@@ -33,6 +33,7 @@ hero_image_keywords:
 - amazon gear mistakes
 - mistakes vicla builders
 - amazon twice
+heroImage: https://images.unsplash.com/photo-1529421306120-3f7f9a0d6b7b?auto=format&fit=crop&w=1200&q=85
 ---
 
 Building a Vicla-style bagger from the ground up means every tool and gear purchase counts, especially when you’re working low and slow in your garage. Over the years, I’ve bought and returned or upgraded dozens of Amazon products that didn’t quite make the cut for the kind of cruiser I build—and I’m sharing the 40 gear mistakes I’ve regretted buying twice so you can save time, cash, and frustration.

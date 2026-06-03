@@ -34,6 +34,7 @@ hero_image_keywords:
 - amazon gift lowrider
 - lowrider motorcycle builders
 - amazon builders
+heroImage: https://images.unsplash.com/photo-1508784536347-4b53cddb5d8e?auto=format&fit=crop&w=1200&q=85
 ---
 
 # Amazon Gift Guide for Lowrider Motorcycle Builders

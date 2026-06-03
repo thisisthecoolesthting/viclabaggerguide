@@ -33,6 +33,7 @@ hero_image_keywords:
 - compact first-aid kits
 - kits weekend bagger
 - compact runs
+heroImage: https://images.unsplash.com/photo-1609630875171-f761c1e6f938?auto=format&fit=crop&w=1200&q=85
 ---
 
 Getting caught with a minor scrape or strain on your weekend bagger run is no joke, but carrying bulky first-aid gear isn’t the answer either. That’s why I’ve rounded up the **best compact first-aid kits** that fit right into your saddlebag or sissy bar bag without weighing down your ride.

@@ -33,6 +33,7 @@ hero_image_keywords:
 - microfiber kits whitewall
 - whitewall paint-safe wiping
 - microfiber wiping
+heroImage: https://images.unsplash.com/photo-1619791916181-46019affd8c3?auto=format&fit=crop&w=1200&q=85
 ---
 
 When it comes to keeping your lowrider-inspired Vicla bagger looking sharp, nothing beats the careful use of the best microfiber kits for whitewall and paint-safe wiping. Having tested dozens of cloths and kits in my own garage on cruisers and cholo-style rigs, I’ve learned what really works without damaging chrome, paint, or those tricky whitewalls.

@@ -32,6 +32,7 @@ hero_image_keywords:
 - riding gloves spring
 - spring fall cruise
 - riding nights
+heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1200&q=85
 ---
 
 Riding gloves are an essential piece of gear for spring and fall cruise nights, providing the perfect balance of protection, comfort, and style when temperatures dip just enough to make bare hands uncomfortable. After logging many miles in my Vicla and lowrider-inspired bagger, I've tested dozens of gloves to find the sweet spot for grip, wind resistance, and that classic cholo vibe.

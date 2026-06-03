@@ -35,6 +35,7 @@ hero_image_keywords:
 - vicla bagger starter
 - starter kit chrome
 - vicla gear
+heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1200&q=85
 ---
 
 Getting started with a Vicla bagger build means gathering the right essentials: chrome care, whitewall tire kits, the right tools, and reliable ride gear. With the right starter kit, you’ll have everything to lay down that classic low-and-slow look while keeping your bagger rolling smooth and striking.

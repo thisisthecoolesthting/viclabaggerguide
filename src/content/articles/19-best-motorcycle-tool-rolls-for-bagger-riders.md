@@ -34,6 +34,7 @@ hero_image_keywords:
 - motorcycle tool rolls
 - rolls bagger riders
 - motorcycle riders
+heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1200&q=85
 ---
 
 Bagger riders know the value of carrying the right tools for those inevitable roadside fixes—especially when rolling slow and low on a Vicla-style bagger. A solid motorcycle tool roll is a game-changer for organized storage, easy access, and protecting your gear from the elements. Here's everything I’ve learned from testing several tool rolls tailored for bagger riders who want quality, durability, and smart design on their cruise-night kits.

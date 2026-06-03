@@ -36,6 +36,7 @@ hero_image_keywords:
 - air compressors motorcycle
 - motorcycle garage work
 - air work
+heroImage: https://images.unsplash.com/photo-1469285993711-8f4debc87f02?auto=format&fit=crop&w=1200&q=85
 ---
 
 When I’m deep in the garage tweaking my low-and-slow bagger, having the right air compressor makes all the difference for smooth, efficient work. Finding the best air compressors for motorcycle garage work means balancing power, portability, and quiet operation—whether you’re inflating tires, powering pneumatic tools, or cleaning parts.

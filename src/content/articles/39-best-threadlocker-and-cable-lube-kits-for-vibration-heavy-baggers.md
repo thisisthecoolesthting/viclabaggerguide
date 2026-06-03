@@ -32,6 +32,7 @@ hero_image_keywords:
 - threadlocker cable lube
 - lube kits vibration-heavy
 - threadlocker baggers
+heroImage: https://images.unsplash.com/photo-1469285993711-8f4debc87f02?auto=format&fit=crop&w=1200&q=85
 ---
 
 Threadlocker and cable lube kits are must-haves for anyone building or maintaining vibration-heavy baggers. I’ve spent many evenings in the garage testing different products to keep my Vicla and lowrider-inspired cruisers tight, smooth, and rattle-free on the road.

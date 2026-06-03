@@ -33,6 +33,7 @@ hero_image_keywords:
 - wheel spoke brushes
 - brushes will not
 - wheel chrome
+heroImage: https://images.unsplash.com/photo-1609630875171-f761c1e6f938?auto=format&fit=crop&w=1200&q=85
 ---
 
 Having spent years building and maintaining low-and-slow baggers, I know firsthand how crucial it is to use the right tools for chrome care, especially when cleaning those intricate wheel spokes. Finding the best wheel spoke brushes that will not scratch chrome can save your Vicla or lowrider-inspired bagger from costly damage and help retain that flawless chrome shine we all chase.

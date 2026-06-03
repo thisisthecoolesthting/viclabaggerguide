@@ -27,6 +27,7 @@ hero_image_keywords:
 - build cruise-night kit
 - build bagger
 - household products retail shelf
+heroImage: https://images.unsplash.com/photo-1508784536347-4b53cddb5d8e?auto=format&fit=crop&w=1200&q=85
 ---
 
 Building a cruise-night kit for your bagger is an essential step to blend style, comfort, and functionality when rolling through those evening rides. A well-stocked kit keeps your Vicla or lowrider-inspired bagger ready for the casual hangouts and impromptu stops that define the cruise-night scene.

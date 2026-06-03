@@ -32,6 +32,7 @@ hero_image_keywords:
 - motorcycle dollies tight
 - tight garage spaces
 - motorcycle spaces
+heroImage: https://images.unsplash.com/photo-1508784536347-4b53cddb5d8e?auto=format&fit=crop&w=1200&q=85
 ---
 
 Getting your Vicla or lowrider bagger in and out of a tight garage space can be a daily challenge without the right equipment. The best motorcycle dollies for tight garage spaces offer a compact, maneuverable, and sturdy solution to move your bike effortlessly, especially when every inch counts.

@@ -36,6 +36,7 @@ hero_image_keywords:
 - garage tools hub
 - hub heavy bagger
 - garage builds
+heroImage: https://images.unsplash.com/photo-1469285993711-8f4debc87f02?auto=format&fit=crop&w=1200&q=85
 ---
 
 # Garage Tools Hub for Heavy Bagger Builds

@@ -33,6 +33,7 @@ hero_image_keywords:
 - check buying fishtail
 - fishtail exhaust parts
 - check online
+heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1200&q=85
 ---
 
 Fishtail exhausts are a classic choice for bagger builds that want to blend that low-and-slow vibe with style reminiscent of old-school cholo rides and vintage Vicla lowriders. Before you hit “buy” on those fishtail exhaust parts online, there are key details you need to check to make sure you’re getting the right fit, finish, and function to match your bagger’s vibe and garage workflow.

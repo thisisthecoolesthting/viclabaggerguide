@@ -29,6 +29,7 @@ hero_image_keywords:
 - drink holders highway
 - highway peg comfort
 - drink accessories
+heroImage: https://images.unsplash.com/photo-1619791916181-46019affd8c3?auto=format&fit=crop&w=1200&q=85
 ---
 
 Riding your Vicla or low-and-slow cholo-style bagger means clocking long miles on open highways and cruise nights. To keep those rides comfortable and hassle-free, the best drink holders and highway peg comfort accessories make all the difference, blending function with style on your custom bagger build.

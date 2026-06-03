@@ -35,6 +35,7 @@ hero_image_keywords:
 - vicla bagger lowrider-inspired
 - lowrider-inspired cruiser explained
 - vicla explained
+heroImage: https://images.unsplash.com/photo-1508784536347-4b53cddb5d8e?auto=format&fit=crop&w=1200&q=85
 ---
 
 # What Is a Vicla Bagger? Lowrider-Inspired Cruiser Explained

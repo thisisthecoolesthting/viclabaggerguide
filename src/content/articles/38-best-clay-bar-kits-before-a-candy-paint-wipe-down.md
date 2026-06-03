@@ -33,6 +33,7 @@ hero_image_keywords:
 - clay bar kits
 - kits candy paint
 - clay wipe-down
+heroImage: https://images.unsplash.com/photo-1508784536347-4b53cddb5d8e?auto=format&fit=crop&w=1200&q=85
 ---
 
 When it comes to prepping your bagger’s paint for a candy paint wipe-down, the best clay bar kits are an absolute game-changer. They remove embedded contaminants that washing alone can’t tackle, leaving your chrome and paint flawless before you seal the deal with that vibrant candy finish.

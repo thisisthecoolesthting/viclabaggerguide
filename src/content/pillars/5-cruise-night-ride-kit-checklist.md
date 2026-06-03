@@ -32,6 +32,7 @@ hero_image_keywords:
 - cruise-night ride kit
 - cruise-night checklist
 - household products retail shelf
+heroImage: https://images.unsplash.com/photo-1469285993711-8f4debc87f02?auto=format&fit=crop&w=1200&q=85
 ---
 
 # Cruise-Night Ride Kit Checklist: Essential Gear for Low-and-Slow Baggers

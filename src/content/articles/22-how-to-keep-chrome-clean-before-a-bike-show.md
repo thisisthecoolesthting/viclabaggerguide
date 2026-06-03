@@ -30,6 +30,7 @@ hero_image_keywords:
 - keep chrome clean
 - clean bike show
 - keep show
+heroImage: https://images.unsplash.com/photo-1568772585407-9361f9bf3a87?auto=format&fit=crop&w=1200&q=85
 ---
 
 Keeping your chrome spotless before a bike show is more than just good looks—it's about showcasing the pride and craftsmanship behind your Vicla, lowrider, or cholo-style bagger. I’ve honed a low-and-slow process that gets your chrome gleaming while protecting it from the pitfalls of grime and oxidation you don’t want on show day.

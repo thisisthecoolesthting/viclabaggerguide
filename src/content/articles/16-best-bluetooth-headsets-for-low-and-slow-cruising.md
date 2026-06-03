@@ -34,6 +34,7 @@ hero_image_keywords:
 - bluetooth headsets low-and-slow
 - bluetooth cruising
 - household products retail shelf
+heroImage: https://images.unsplash.com/photo-1619791916181-46019affd8c3?auto=format&fit=crop&w=1200&q=85
 ---
 
 Low-and-slow cruising on your bagger demands not just style but seamless communication and music enjoyment, and the best Bluetooth headsets make this possible without compromising your ride’s laid-back vibe. I’ve tested and fine-tuned plenty of headset setups through many garage sessions and night rides, so here’s the go-to guide to picking the perfect Bluetooth headset for low-and-slow cruising.

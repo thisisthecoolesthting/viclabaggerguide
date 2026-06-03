@@ -34,6 +34,7 @@ hero_image_keywords:
 - long-ride comfort rain
 - rain kit touring
 - long-ride baggers
+heroImage: https://images.unsplash.com/photo-1619791916181-46019affd8c3?auto=format&fit=crop&w=1200&q=85
 ---
 
 # Long-Ride Comfort and Rain Kit for Touring Baggers

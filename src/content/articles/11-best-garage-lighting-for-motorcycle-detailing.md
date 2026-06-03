@@ -31,6 +31,7 @@ hero_image_keywords:
 - garage lighting motorcycle
 - garage detailing
 - household products retail shelf
+heroImage: https://images.unsplash.com/photo-1568772585407-9361f9bf3a87?auto=format&fit=crop&w=1200&q=85
 ---
 
 When it comes to polishing your cholo-style bagger or perfecting that lowrider-inspired Vicla paint job, the best garage lighting for motorcycle detailing makes all the difference. Without the right illumination, you’ll miss critical spots that affect your ride’s finish and chrome shine.

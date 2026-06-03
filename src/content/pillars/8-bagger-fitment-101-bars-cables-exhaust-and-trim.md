@@ -34,6 +34,7 @@ hero_image_keywords:
 - bagger fitment bars
 - bars cables exhaust
 - bagger trim
+heroImage: https://images.unsplash.com/photo-1619791916181-46019affd8c3?auto=format&fit=crop&w=1200&q=85
 ---
 
 # Bagger Fitment 101: Bars, Cables, Exhaust, and Trim

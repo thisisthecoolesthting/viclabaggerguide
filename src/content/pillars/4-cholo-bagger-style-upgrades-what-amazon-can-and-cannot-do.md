@@ -34,6 +34,7 @@ hero_image_keywords:
 - cholo bagger style
 - style upgrades amazon
 - cholo cannot
+heroImage: https://images.unsplash.com/photo-1558981403-c5f9899a4962?auto=format&fit=crop&w=1200&q=85
 ---
 
 # Cholo Bagger Style Upgrades: What Amazon Can and Cannot Do

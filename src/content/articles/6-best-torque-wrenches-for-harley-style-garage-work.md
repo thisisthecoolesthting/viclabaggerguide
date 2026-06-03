@@ -33,6 +33,7 @@ hero_image_keywords:
 - torque wrenches harley-style
 - harley-style garage work
 - torque work
+heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1200&q=85
 ---
 
 Finding the best torque wrenches for Harley-style garage work can make all the difference when building or maintaining low-and-slow baggers, Viclas, or cholo-inspired cruisers. Over the years, I’ve tested a range of torque wrenches to find those that stand up to the precision, durability, and feel that this style of bike demands.

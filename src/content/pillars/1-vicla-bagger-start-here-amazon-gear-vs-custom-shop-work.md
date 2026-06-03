@@ -36,6 +36,7 @@ hero_image_keywords:
 - vicla bagger start
 - start here amazon
 - vicla work
+heroImage: https://images.unsplash.com/photo-1508784536347-4b53cddb5d8e?auto=format&fit=crop&w=1200&q=85
 ---
 
 # Vicla Bagger Start Here: Amazon Gear vs Custom Shop Work

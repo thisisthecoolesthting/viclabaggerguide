@@ -31,6 +31,7 @@ hero_image_keywords:
 - whitewall tire cleaners
 - cleaners lowrider motorcycles
 - whitewall motorcycles
+heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1200&q=85
 ---
 
 Cleaning whitewall tires on lowrider motorcycles is an art form all its own, and trust me, it’s worth every minute spent making those crisp whitewalls shine. In the cholo bagger world, where style and authenticity reign supreme, picking the best whitewall tire cleaner can make a massive difference in your bike’s curb appeal and how long those whitewalls stay looking fresh.

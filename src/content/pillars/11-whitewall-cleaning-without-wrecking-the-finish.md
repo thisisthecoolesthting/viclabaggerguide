@@ -35,6 +35,7 @@ hero_image_keywords:
 - whitewall cleaning without
 - without wrecking finish
 - whitewall finish
+heroImage: https://images.unsplash.com/photo-1609630875171-f761c1e6f938?auto=format&fit=crop&w=1200&q=85
 ---
 
 # Whitewall Cleaning Without Wrecking the Finish

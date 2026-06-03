@@ -32,6 +32,7 @@ hero_image_keywords:
 - motorcycle lift jacks
 - jacks heavy baggers
 - motorcycle baggers
+heroImage: https://images.unsplash.com/photo-1619791916181-46019affd8c3?auto=format&fit=crop&w=1200&q=85
 ---
 
 When you’re working on a heavy bagger, having the right motorcycle lift jack isn’t just a convenience—it’s a safety essential. Finding the best motorcycle lift jack for heavy baggers means balancing weight capacity, stability, and ease of use to keep your bike secure while you work in the garage.

@@ -32,6 +32,7 @@ hero_image_keywords:
 - custom bagger security
 - custom storage
 - household products retail shelf
+heroImage: https://images.unsplash.com/photo-1619791916181-46019affd8c3?auto=format&fit=crop&w=1200&q=85
 ---
 
 # Custom Bagger Security and Storage Guide

@@ -32,6 +32,7 @@ hero_image_keywords:
 - detail brushes spoke
 - spoke wheels chrome
 - detail chrome
+heroImage: https://images.unsplash.com/photo-1508784536347-4b53cddb5d8e?auto=format&fit=crop&w=1200&q=85
 ---
 
 Keeping your cholo-style bagger’s spoke wheels and chrome gleaming means having the right tools, and the best detail brushes for spoke wheels and chrome are absolute essentials in the garage. I’ve spent years customizing low-and-slow baggers, and keeping every spoke clean without scratching or missing grime takes patience—and the perfect brushes to get the job done right.  

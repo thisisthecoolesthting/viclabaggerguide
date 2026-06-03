@@ -32,6 +32,7 @@ hero_image_keywords:
 - motorcycle phone mounts
 - mounts ape hanger
 - motorcycle bars
+heroImage: https://images.unsplash.com/photo-1568772585407-9361f9bf3a87?auto=format&fit=crop&w=1200&q=85
 ---
 
 Riding a low-and-slow bagger with tall ape hanger bars demands a phone mount that can handle the height, style, and vibration without losing grip or throwing off your bike’s clean lines. The best motorcycle phone mounts for ape hanger bars provide solid stability, easy access, and weather resistance — so you can stay connected while you cruise without risking your device.

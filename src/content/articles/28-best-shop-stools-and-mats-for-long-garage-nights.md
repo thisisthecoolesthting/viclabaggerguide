@@ -31,6 +31,7 @@ hero_image_keywords:
 - shop stools mats
 - mats long garage
 - shop nights
+heroImage: https://images.unsplash.com/photo-1609630875171-f761c1e6f938?auto=format&fit=crop&w=1200&q=85
 ---
 
 When you’re in the garage tackling long Vicla bagger builds or getting your cruise-night bike just right, comfort and durability go hand in hand. The best shop stools and mats for long garage nights will keep your back pain-free and your knees safe, helping you stay focused on every chrome polish and wrench turn.

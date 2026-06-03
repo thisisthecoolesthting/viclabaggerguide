@@ -31,6 +31,7 @@ hero_image_keywords:
 - helmet locks quick-security
 - helmet add-ons
 - household products retail shelf
+heroImage: https://images.unsplash.com/photo-1508784536347-4b53cddb5d8e?auto=format&fit=crop&w=1200&q=85
 ---
 
 The best helmet locks and quick-security add-ons give you peace of mind without slowing down your ride or cramping your cool. Whether you roll low-and-slow through the city on your Vicla-inspired bagger or you’re hitting up cruise nights, securing your helmet quickly — and stylishly — is a must-have for any serious rider.

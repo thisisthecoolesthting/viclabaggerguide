@@ -36,6 +36,7 @@ hero_image_keywords:
 - ape hanger accessories
 - accessories check buy
 - ape buy
+heroImage: https://images.unsplash.com/photo-1529421306120-3f7f9a0d6b7b?auto=format&fit=crop&w=1200&q=85
 ---
 
 Ape hangers are the heartbeat of any true cholo-style bagger build—giving your bike that unmistakable lowrider swagger and commanding presence on the street. Before you pull the trigger on your next set, it’s crucial to check the best ape hanger accessories that can make or break your ride’s comfort, style, and safety.

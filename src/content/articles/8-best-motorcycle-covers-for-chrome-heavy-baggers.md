@@ -31,6 +31,7 @@ hero_image_keywords:
 - motorcycle covers chrome-heavy
 - motorcycle baggers
 - household products retail shelf
+heroImage: https://images.unsplash.com/photo-1609630875171-f761c1e6f938?auto=format&fit=crop&w=1200&q=85
 ---
 
 Covering chrome-heavy baggers can be a game changer in keeping your bike’s luster and protecting those detailed finishes from the elements. Finding the best motorcycle covers for chrome-heavy baggers means balancing weather resistance, softness against delicate finishes, and a fit that honors the low-and-slow silhouette without adding frustration.
