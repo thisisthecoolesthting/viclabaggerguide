@@ -1,4 +1,5 @@
 ---
+targetKeyword: 'Garage Tools Hub for Heavy Bagger Builds'
 title: Garage Tools Hub for Heavy Bagger Builds
 metaDescription: Garage Tools Hub for Heavy Bagger Builds. Practical guide covering
   Garage Tools Hub for Heavy Bagger Builds.

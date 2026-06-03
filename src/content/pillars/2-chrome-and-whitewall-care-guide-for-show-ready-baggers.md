@@ -1,4 +1,5 @@
 ---
+targetKeyword: 'Chrome and Whitewall Care Guide for Show-Ready Baggers'
 title: Chrome and Whitewall Care Guide for Show-Ready Baggers
 metaDescription: Chrome and Whitewall Care Guide for Show-Ready Baggers. Practical
   guide covering Chrome and Whitewall Care Guide for Show-Ready Baggers.

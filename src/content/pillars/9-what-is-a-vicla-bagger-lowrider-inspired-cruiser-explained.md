@@ -1,4 +1,5 @@
 ---
+targetKeyword: 'What Is a Vicla Bagger? Lowrider-Inspired Cruiser Explained'
 title: What Is a Vicla Bagger? Lowrider-Inspired Cruiser Explained
 metaDescription: What Is a Vicla Bagger? Lowrider-Inspired Cruiser Explained. Practical
   guide covering What Is a Vicla Bagger? Lowrider-Inspired Cruiser Explained.

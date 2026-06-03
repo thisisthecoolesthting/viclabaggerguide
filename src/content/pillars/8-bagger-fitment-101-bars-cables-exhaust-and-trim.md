@@ -1,4 +1,5 @@
 ---
+targetKeyword: 'Bagger Fitment 101: Bars, Cables, Exhaust, and Trim'
 title: 'Bagger Fitment 101: Bars, Cables, Exhaust, and Trim'
 metaDescription: 'Bagger Fitment 101: Bars, Cables, Exhaust, and Trim. Practical guide
   covering Bagger Fitment 101: Bars, Cables, Exhaust, and Trim.'

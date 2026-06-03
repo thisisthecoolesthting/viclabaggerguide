@@ -1,4 +1,5 @@
 ---
+targetKeyword: 'Cruise-Night Ride Kit Checklist'
 title: Cruise-Night Ride Kit Checklist
 metaDescription: Cruise-Night Ride Kit Checklist. Practical guide covering Cruise-Night
   Ride Kit Checklist.

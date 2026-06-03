@@ -1,4 +1,5 @@
 ---
+targetKeyword: 'Vicla Bagger Start Here: Amazon gear vs custom shop work'
 title: 'Vicla Bagger Start Here: Amazon gear vs custom shop work'
 metaDescription: 'Vicla Bagger Start Here: Amazon gear vs custom shop work. Practical
   guide covering Vicla Bagger Start Here: Amazon gear vs custom shop work.'

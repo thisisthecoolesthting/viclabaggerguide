@@ -1,4 +1,5 @@
 ---
+targetKeyword: 'Cholo Bagger vs Club Style Bagger: Style and Gear Differences'
 title: 'Cholo Bagger vs Club Style Bagger: Style and Gear Differences'
 metaDescription: 'Cholo Bagger vs Club Style Bagger: Style and Gear Differences. Practical
   guide covering Cholo Bagger vs Club Style Bagger: Style and Gear Differences.'

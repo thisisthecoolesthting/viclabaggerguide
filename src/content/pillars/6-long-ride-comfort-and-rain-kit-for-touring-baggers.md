@@ -1,4 +1,5 @@
 ---
+targetKeyword: 'Long-Ride Comfort and Rain Kit for Touring Baggers'
 title: Long-Ride Comfort and Rain Kit for Touring Baggers
 metaDescription: Long-Ride Comfort and Rain Kit for Touring Baggers. Practical guide
   covering Long-Ride Comfort and Rain Kit for Touring Baggers.

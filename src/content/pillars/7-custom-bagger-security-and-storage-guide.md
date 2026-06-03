@@ -1,4 +1,5 @@
 ---
+targetKeyword: 'Custom Bagger Security and Storage Guide'
 title: Custom Bagger Security and Storage Guide
 metaDescription: Custom Bagger Security and Storage Guide. Practical guide covering
   Custom Bagger Security and Storage Guide.
