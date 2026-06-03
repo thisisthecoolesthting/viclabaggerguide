@@ -1,0 +1,151 @@
+{
+  "brand": {
+    "shortName": "Vicla Bagger Guide",
+    "fullName": "Vicla Bagger Guide",
+    "taglineShort": "Amazon gear guides for chrome-heavy Vicla and cholo-style bagger builds.",
+    "identity": {
+      "palette": {
+        "primary": "#0C0A09",
+        "accent": "#B91C1C",
+        "cream": "#FAFAF9",
+        "ink": "#FAFAF9",
+        "secondary": "#57534E",
+        "surface": "#F5F5F4",
+        "highlight": "#15803D"
+      },
+      "fonts": {
+        "display": "Oswald",
+        "body": "Source Sans 3",
+        "mono": "IBM Plex Mono"
+      },
+      "mark": {
+        "svgPath": "brand/viclabaggerguide-mark.svg",
+        "svgPublicPath": "/brand/viclabaggerguide-mark.svg",
+        "sizeRem": 1.75,
+        "position": "left-of-wordmark"
+      },
+      "wordmark": {
+        "weight": 600,
+        "tracking": "tight",
+        "case": "normal"
+      },
+      "headerVariant": "minimal",
+      "eyebrowText": "LOW & SLOW BAGGER GEAR",
+      "fontCssHref": "https://fonts.googleapis.com/css2?family=Oswald:wght@400;600;700&family=Source+Sans+3:wght@400;600;700&family=IBM+Plex+Mono:wght@400;600;700&display=swap"
+    }
+  },
+  "persona": {
+    "ymyl": false,
+    "tone": "respectful-rider"
+  },
+  "editorial": {
+    "authorSlug": "miguel-vega-viclabaggerguide",
+    "author_slug": "miguel-vega-viclabaggerguide",
+    "methodology": [
+      "We prioritize Amazon listings with real buyer photos and clear fitment language.",
+      "We do not publish live prices unless pulled from approved catalog data at build time.",
+      "Every buying guide includes: As an Amazon Associate I earn from qualifying purchases.",
+      "We are not affiliated with Harley-Davidson, Inc. or any motorcycle OEM.",
+      "Model names are used only for informational fitment discussion.",
+      "We re-check top picks quarterly and remove discontinued ASINs."
+    ],
+    "ymyl": false
+  },
+  "newsletter": {
+    "title": "The Vicla Bagger Guide weekly",
+    "subtitle": "Practical picks and straight answers from Vicla Bagger Guide, once a week. No spam.",
+    "kicker": "Stay in the loop"
+  },
+  "supportEmail": "hello@viclabaggerguide.org",
+  "defaultAuthorSlug": "miguel-vega-viclabaggerguide",
+  "defaultMetaDescription": "Amazon gear lists, garage tools, detail kits, ride essentials, and style checklists for Vicla, Chicano-style, and lowrider-inspired bagger builds.",
+  "homepage": {
+    "eyebrow": "Low & slow bagger gear",
+    "h1": "Low & Slow Bagger Gear Guides",
+    "subhead": "Amazon gear lists, garage tools, detail kits, ride essentials, and style checklists for Vicla, Chicano-style, and lowrider-inspired bagger builds.",
+    "ctaPrimaryLabel": "Start here",
+    "ctaPrimaryHref": "/pillars/vicla-bagger-start-here",
+    "ctaSecondaryLabel": "Chrome & whitewall care",
+    "ctaSecondaryHref": "/pillars/chrome-whitewall-care",
+    "trustLine": "Independent gear guide. Not affiliated with Harley-Davidson or any OEM. Amazon Associates disclosed on every buying guide.",
+    "heroImageUrl": "/images/hero/home.jpg",
+    "compareRowEnabled": true,
+    "comparePicks": [
+      {
+        "title": "XKMT- Motorcycle 30\" Wrap Front Fender Spacer For 14+ H-D Touring Electra Road G",
+        "slug": "b093tj5s2n-xkmt-motorcycle-30-wrap-front-fender-spacer-for-14-h-d-touri",
+        "priceLabel": "$25.17",
+        "href": "/products/b093tj5s2n-xkmt-motorcycle-30-wrap-front-fender-spacer-for-14-h-d-touri/"
+      },
+      {
+        "title": "Victory Motorcycle New OEM Chrome Billet Grips, Vegas Kingpin, 2879649-156",
+        "slug": "b07885qdvh-victory-motorcycle-new-oem-chrome-billet-grips-vegas-kingpin",
+        "priceLabel": "$59.94",
+        "href": "/products/b07885qdvh-victory-motorcycle-new-oem-chrome-billet-grips-vegas-kingpin/"
+      },
+      {
+        "title": "Prism Polish Metal Polish - 7 Ounce: Achieve a Brilliant Shine on Aluminum, Chro",
+        "slug": "b004xwqyre-prism-polish-metal-polish-7-ounce-achieve-a-brilliant-shine-",
+        "priceLabel": "$21.95",
+        "href": "/products/b004xwqyre-prism-polish-metal-polish-7-ounce-achieve-a-brilliant-shine-/"
+      },
+      {
+        "title": "oesee Motorcycle Cleaning Kit 6 Pack Design for Chrome, Woolies Brush, Wool Wash",
+        "slug": "b0c3rj5tb7-oesee-motorcycle-cleaning-kit-6-pack-design-for-chrome-wooli",
+        "priceLabel": "$19.99",
+        "href": "/products/b0c3rj5tb7-oesee-motorcycle-cleaning-kit-6-pack-design-for-chrome-wooli/"
+      }
+    ]
+  },
+  "about": {
+    "headline": "Built low. Polished right.",
+    "body": "Vicla Bagger Guide is for riders who treat a bagger like rolling art \u2014 chrome, whitewalls, leather, fishtails, and garage pride. We organize Amazon-buyable tools, detail gear, security, and ride kits with honest fitment warnings. We do not pretend you can build a full show Vicla from Amazon alone; we show what actually helps you clean, protect, wrench, and cruise."
+  },
+  "navigation": [
+    {
+      "href": "/",
+      "label": "Home"
+    },
+    {
+      "href": "/pillars",
+      "label": "Guides"
+    },
+    {
+      "href": "/articles",
+      "label": "Articles"
+    },
+    {
+      "href": "/products",
+      "label": "Reviews"
+    },
+    {
+      "href": "/about",
+      "label": "About"
+    }
+  ],
+  "distribution": {
+    "ads": {
+      "provider": "none",
+      "site_id": "",
+      "slot_ids": {
+        "hero": "",
+        "content_mid": "",
+        "footer": ""
+      }
+    },
+    "email_capture": {
+      "provider": "none",
+      "form_action": "",
+      "list_id": ""
+    },
+    "phone_case_promo": {
+      "enabled": true,
+      "store_url": "https://phonecasesforall.com",
+      "headline": "Custom phone cases, free shipping",
+      "subhead": "Thousands of designs for iPhone & Samsung \u2014 from our own shop.",
+      "cta": "Browse cases \u2192",
+      "utm_campaign": "viclabaggerguide.org"
+    }
+  },
+  "analytics": {}
+}
