@@ -11,6 +11,8 @@ import NewsletterForm from '@/components/NewsletterForm.astro';
 import home from '@/data/spawn-home.json';
 
 const h = home.homepage;
+const heroVideoUrl = (h as { heroVideoUrl?: string }).heroVideoUrl?.trim() || '';
+const heroStillUrl = heroVideoUrl ? '' : (h.heroImageUrl || '');
 const b = home.brand;
 const id = b.identity;
 const dmeta = (home as { defaultMetaDescription?: string }).defaultMetaDescription || b.taglineShort;
@@ -197,11 +199,23 @@ const latestSixWithDedupe = latestSix.map((a) => {
           </ul>
         </div>
 
-        {/* ----- 2:3 hero image with overlay stat card ----- */}
+        {/* ----- Hero media: loop video when spawn-home.heroVideoUrl set ----- */}
         <div class="relative">
           <div class="relative rounded-2xl overflow-hidden shadow-soft-lg aspect-[2/3]">
-            {h.heroImageUrl ? (
-              <img src={h.heroImageUrl} alt="" loading="eager"
+            {heroVideoUrl ? (
+              <video
+                class="absolute inset-0 w-full h-full object-cover"
+                src={heroVideoUrl}
+                muted
+                loop
+                playsinline
+                autoplay
+                preload="auto"
+                poster={h.heroImageUrl || undefined}
+                aria-label={`Editorial hero video · ${b.fullName}`}
+              />
+            ) : heroStillUrl ? (
+              <img src={heroStillUrl} alt="" loading="eager"
                    class="absolute inset-0 w-full h-full object-cover" />
             ) : (
               <div class="absolute inset-0 bg-gradient-to-b from-cream-200 to-terracotta-400/40"></div>
@@ -211,7 +225,7 @@ const latestSixWithDedupe = latestSix.map((a) => {
               {(home.categories?.[0] || 'Editorial').toUpperCase()} · TESTED
             </span>
             <span class="absolute bottom-4 left-4 right-4 text-cream-50/95 font-mono text-[10.5px] tracking-[0.1em]">
-              Photographed by editorial team
+              {heroVideoUrl ? `Editorial video · ${b.fullName}` : 'Photographed by editorial team'}
             </span>
           </div>
 
