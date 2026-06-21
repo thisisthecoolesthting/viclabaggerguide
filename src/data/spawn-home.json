@@ -100,7 +100,7 @@
   },
   "about": {
     "headline": "Built low. Polished right.",
-    "body": "Vicla Bagger Guide is for riders who treat a bagger like rolling art \u2014 chrome, whitewalls, leather, fishtails, and garage pride. We organize Amazon-buyable tools, detail gear, security, and ride kits with honest fitment warnings. We do not pretend you can build a full show Vicla from Amazon alone; we show what actually helps you clean, protect, wrench, and cruise."
+    "body": "Vicla Bagger Guide is for riders who treat a bagger like rolling art — chrome, whitewalls, leather, fishtails, and garage pride. We organize Amazon-buyable tools, detail gear, security, and ride kits with honest fitment warnings. We do not pretend you can build a full show Vicla from Amazon alone; we show what actually helps you clean, protect, wrench, and cruise."
   },
   "navigation": [
     {
@@ -143,10 +143,14 @@
       "enabled": false,
       "store_url": "https://phonecasesforall.com",
       "headline": "Custom phone cases, free shipping",
-      "subhead": "Thousands of designs for iPhone & Samsung \u2014 from our own shop.",
-      "cta": "Browse cases \u2192",
+      "subhead": "Thousands of designs for iPhone & Samsung — from our own shop.",
+      "cta": "Browse cases →",
       "utm_campaign": "viclabaggerguide.org"
     }
   },
-  "analytics": {}
+  "analytics": {
+    "ga_measurement_id": "G-C1WBHHC0XQ",
+    "ga_property_id": "540081320",
+    "search_console_property": "https://viclabaggerguide.org/"
+  }
 }
