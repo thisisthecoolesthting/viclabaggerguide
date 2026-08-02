@@ -5,7 +5,7 @@ metaDescription: 'Rain-day ride kit: quick-deploy gear for surprise storms. Prac
 publishedAt: '2026-06-02'
 updatedAt: '2026-06-02'
 excerpt: 'Rain-day ride kit: quick-deploy gear for surprise storms'
-author: jake-morales-vtwinriderkit
+author: miguel-vega-viclabaggerguide
 tags:
 - rain
 - ride
@@ -17,7 +17,7 @@ site: vtwinriderkit
 topic: '28. Rain-day ride kit: quick-deploy gear for surprise storms'
 tier: full
 relatedProducts: []
-status: published
+status: draft
 keyTakeaways:
 - A compact, high-visibility rain suit built for quick layering protects you without
   bulk or delay.

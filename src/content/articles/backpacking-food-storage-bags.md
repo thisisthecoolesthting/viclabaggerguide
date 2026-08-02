@@ -7,7 +7,7 @@ cardTitle: "backpacking-food-storage-bags"
 cardPick: "Editorial cleaning pick from CampDeck."
 updatedAt: '2026-06-06T03:05:59.780Z'
 relatedProducts: []
-status: published
+status: draft
 subtopic: cleaning
 publishedAt: '2026-06-06T03:05:59.780Z'
 metaDescription: "backpacking-food-storage-bags"

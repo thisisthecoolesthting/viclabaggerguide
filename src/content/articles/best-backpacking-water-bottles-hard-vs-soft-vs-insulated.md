@@ -7,7 +7,7 @@ cardTitle: "best-backpacking-water-bottles-hard-vs-soft-vs-insulated"
 cardPick: "Editorial cleaning pick from CampDeck."
 updatedAt: '2026-06-06T03:05:59.798Z'
 relatedProducts: []
-status: published
+status: draft
 subtopic: cleaning
 publishedAt: '2026-06-06T03:05:59.798Z'
 metaDescription: "best-backpacking-water-bottles-hard-vs-soft-vs-insulated"

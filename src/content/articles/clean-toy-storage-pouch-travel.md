@@ -15,7 +15,7 @@ site: pleasurewatch
 topic: clean toy storage pouch travel
 tier: full
 relatedProducts: []
-status: published
+status: draft
 keyTakeaways:
 - A clean toy storage pouch designed for travel should offer odor control, easy cleaning,
   and durable materials.

@@ -7,7 +7,7 @@ cardTitle: "budget-versus-premium-sleeping-bags-what-actually-matters-"
 cardPick: "Editorial cleaning pick from CampDeck."
 updatedAt: '2026-06-06T03:05:59.815Z'
 relatedProducts: []
-status: published
+status: draft
 subtopic: cleaning
 publishedAt: '2026-06-06T03:05:59.815Z'
 metaDescription: "budget-versus-premium-sleeping-bags-what-actually-matters-2"

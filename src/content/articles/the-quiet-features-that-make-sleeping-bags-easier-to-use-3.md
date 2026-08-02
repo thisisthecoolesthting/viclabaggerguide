@@ -7,7 +7,7 @@ cardTitle: "the-quiet-features-that-make-sleeping-bags-easier-to-use-3"
 cardPick: "Editorial cleaning pick from CampDeck."
 updatedAt: '2026-06-06T03:05:59.869Z'
 relatedProducts: []
-status: published
+status: draft
 subtopic: cleaning
 publishedAt: '2026-06-06T03:05:59.869Z'
 metaDescription: "the-quiet-features-that-make-sleeping-bags-easier-to-use-3"

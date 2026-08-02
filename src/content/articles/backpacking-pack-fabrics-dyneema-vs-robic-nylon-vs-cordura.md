@@ -7,7 +7,7 @@ cardTitle: "backpacking-pack-fabrics-dyneema-vs-robic-nylon-vs-cordura"
 cardPick: "Editorial cleaning pick from CampDeck."
 updatedAt: '2026-06-06T03:05:59.782Z'
 relatedProducts: []
-status: published
+status: draft
 subtopic: cleaning
 publishedAt: '2026-06-06T03:05:59.782Z'
 metaDescription: "backpacking-pack-fabrics-dyneema-vs-robic-nylon-vs-cordura"

@@ -7,7 +7,7 @@ cardTitle: "best-backpacking-water-filters-pump-vs-gravity-vs-squeeze"
 cardPick: "Editorial cleaning pick from CampDeck."
 updatedAt: '2026-06-06T03:05:59.800Z'
 relatedProducts: []
-status: published
+status: draft
 subtopic: cleaning
 publishedAt: '2026-06-06T03:05:59.800Z'
 metaDescription: "best-backpacking-water-filters-pump-vs-gravity-vs-squeeze"
