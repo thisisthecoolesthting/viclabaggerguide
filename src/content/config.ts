@@ -84,6 +84,7 @@ const articles = defineCollection({
     keyTakeaways: z.array(z.string()).optional().default([]),
     author: z.string().optional().default('miguel-vega-viclabaggerguide'),
     reviewedAt: z.coerce.date().optional(),
+    faqs: z.array(z.object({ question: z.string(), answer: z.string() })).optional().default([]),
   }),
 });
 

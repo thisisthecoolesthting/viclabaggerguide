@@ -70,6 +70,20 @@ const articleSchema = {
   image: entry.data.heroImage ? [entry.data.heroImage] : undefined,
   mainEntityOfPage: { '@type': 'WebPage', '@id': `${o}/articles/${entry.slug}/` },
 };
+const faqs = entry.data.faqs ?? [];
+const stripHtml = (s: string) => s.replace(/<[^>]+>/g, '');
+const faqSchema =
+  faqs.length > 0
+    ? {
+        '@context': 'https://schema.org',
+        '@type': 'FAQPage',
+        mainEntity: faqs.map((f) => ({
+          '@type': 'Question',
+          name: f.question,
+          acceptedAnswer: { '@type': 'Answer', text: stripHtml(f.answer) },
+        })),
+      }
+    : null;
 ---
 
 <BaseLayout
@@ -85,6 +99,7 @@ const articleSchema = {
   sectionAdsCompact
 >
   <script type="application/ld+json" set:html={JSON.stringify(articleSchema)} />
+  {faqSchema && <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />}
 
   <LongformPageShell
     title={entry.data.title}
@@ -97,6 +112,22 @@ const articleSchema = {
   >
     <Content />
   </LongformPageShell>
+
+  {faqs.length > 0 && (
+    <div class="max-w-site mx-auto px-4 sm:px-6 lg:px-8 pb-8">
+      <div class="max-w-3xl mx-auto">
+        <h2 class="font-display text-xl md:text-2xl text-ink-900 mb-4">Frequently Asked Questions</h2>
+        <div class="space-y-5">
+          {faqs.map((f) => (
+            <div>
+              <h3 class="font-semibold text-ink-900 mb-1">{f.question}</h3>
+              <p class="text-ink-700" set:html={f.answer} />
+            </div>
+          ))}
+        </div>
+      </div>
+    </div>
+  )}
 
   <div class="max-w-site mx-auto px-4 sm:px-6 lg:px-8 pb-20">
     <EmailCapture title={nl.title} subtitle={nl.subtitle} />
