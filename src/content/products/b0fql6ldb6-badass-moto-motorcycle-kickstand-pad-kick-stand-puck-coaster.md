@@ -10,7 +10,7 @@ bsr: 5
 commissionPerSale: 0
 score: 0
 imageUrl: "https://m.media-amazon.com/images/I/51pOFe+9WJL.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B0FQL6LDB6?tag=viclabaggerguide-20"
+affiliateUrl: ""
 isPrime: false
 status: published
 firstSeen: "2026-06-02"
